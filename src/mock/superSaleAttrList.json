@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "spuId": 1,
+    "baseSaleAttrId": 1,
+    "saleAttrName": "选择颜色",
+    "spuSaleAttrValueList": [
+      {
+        "id": 1,
+        "spuId": 1,
+        "baseSaleAttrId": 1,
+        "saleAttrValueName": "黑色",
+        "saleAttrName": "选择颜色",
+        "isChecked": "1"
+      },
+      {
+        "id": 2,
+        "spuId": 2,
+        "baseSaleAttrId": 2,
+        "saleAttrValueName": "银色",
+        "saleAttrName": "选择颜色",
+        "isChecked": "0"
+      },
+      {
+        "id": 3,
+        "spuId": 3,
+        "baseSaleAttrId": 3,
+        "saleAttrValueName": "红色",
+        "saleAttrName": "选择颜色",
+        "isChecked": "0"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "spuId": 1,
+    "baseSaleAttrId": 2,
+    "saleAttrName": "选择版本",
+    "spuSaleAttrValueList": [
+      {
+        "id": 4,
+        "spuId": 1,
+        "baseSaleAttrId": 2,
+        "saleAttrValueName": "64GB",
+        "saleAttrName": "选择版本",
+        "isChecked": "1"
+      },
+      {
+        "id": 5,
+        "spuId": 2,
+        "baseSaleAttrId": 3,
+        "saleAttrValueName": "128GB",
+        "saleAttrName": "选择版本",
+        "isChecked": "0"
+      },
+      {
+        "id": 6,
+        "spuId": 3,
+        "baseSaleAttrId": 4,
+        "saleAttrValueName": "256GB",
+        "saleAttrName": "选择版本",
+        "isChecked": "0"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "spuId": 1,
+    "baseSaleAttrId": 3,
+    "saleAttrName": "选择套装",
+    "spuSaleAttrValueList": [
+      {
+        "id": 7,
+        "spuId": 1,
+        "baseSaleAttrId": 3,
+        "saleAttrValueName": "官方标配",
+        "saleAttrName": "选择套装",
+        "isChecked": "1"
+      },
+      {
+        "id": 8,
+        "spuId": 2,
+        "baseSaleAttrId": 4,
+        "saleAttrValueName": "套餐一",
+        "saleAttrName": "选择套装",
+        "isChecked": "0"
+      },
+      {
+        "id": 9,
+        "spuId": 3,
+        "baseSaleAttrId": 5,
+        "saleAttrValueName": "套餐二",
+        "saleAttrName": "选择套装",
+        "isChecked": "0"
+      }
+    ]
+  }
+]
